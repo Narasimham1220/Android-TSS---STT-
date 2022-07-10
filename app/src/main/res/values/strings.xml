@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android TTS-STT</string>
+    <string name="error_will_be_shown_here">Error will be shown here</string>
+    <string name="error_message">Error message:</string>
+    <string name="error_handling">ERROR HANDLING</string>
+    <string name="enter_text_and_click_on_speak_button">Enter Text and click on speak button</string>
+    <string name="text_to_speech_input">Text to speech input:</string>
+    <string name="text_to_speech">Text to Speech</string>
+    <string name="speech_to_text_output_will_be_shown_here">Speech to Text output will be shown here</string>
+    <string name="action_settings">Settings</string>
+    <string name="speech_to_text">Speech to Text</string>
+    <string name="speech_to_text_output">Speech to Text Output:</string>
+</resources>
